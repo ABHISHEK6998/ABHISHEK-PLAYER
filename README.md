@@ -105,7 +105,7 @@ For linked group admins only:
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add @AdityaPlayerBot as Channel admin with full permissions
+ 3. Add @ABHIxPlayer_bot as Channel admin with full permissions
  4. add helper to channel
  5. Simply send commands in your group.
 
