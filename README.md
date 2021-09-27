@@ -49,7 +49,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/AdityaHalder/Aditya-Player
+$ git clone https://github.com/ABHISHEK6998/ABHISHEK-PLAYER
 $ cd Aditya-Player
 # Upgrade sources
 # Install All Requirements 
